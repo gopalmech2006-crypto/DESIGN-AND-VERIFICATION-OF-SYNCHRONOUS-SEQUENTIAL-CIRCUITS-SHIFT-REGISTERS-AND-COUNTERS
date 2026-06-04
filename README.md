@@ -96,12 +96,5 @@ The synchronous sequential circuits (Shift Registers and Counters) were successf
 
 ---
 
-## Applications
 
-* Digital communication systems
-* Data storage and transfer
-* Frequency division
-* Timing and control circuits
-* Microprocessor and embedded systems
-* Digital clocks and event counters
 
